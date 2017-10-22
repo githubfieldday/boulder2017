@@ -8,7 +8,7 @@
 # Site settings
 title: GitHub Field Day
 description: > # this means to ignore newlines until "baseurl:"
-  An unconference for leaders of technical student communities. July 29 at GitHub HQ in SF.
+  An unconference for leaders of technical student communities. Spring 2018 in Boulder Colorado</a>.
 date: 2017-07-29T07:00:00.000Z
 url: "http://githubfieldday.com" # the base hostname & protocol for your site
 github_repo: https://github.com/githubfieldday/site
@@ -19,17 +19,17 @@ exclude: [
   'package.json',
   'README.md'
 ]
-baseurl: '/sf2017'
+baseurl: '/boulder2017'
 
 faqs:
   - q: Who can attend Field Day?
-    a: Field Day is for student leaders of technical communities all around the world who are currently in the Bay Area for internships or similar summer activities. Most attendees will be undergraduate students.
+    a: Field Day is for student leaders of technical communities all around the world who are currently in the Rocky Mountain Region. Most attendees will be undergraduate students.
   - q: What's a student leader?
     a: A student leader is someone who's actively involved in improving their local technical community. They might be the president or chairperson of their school's tech club or be one of the organizers of the annual hackathon. They might run the student hardware group or be actively involved in introducing other students to programming.
   - q: What's an unconference?
     a: A loosely structured conference emphasizing the informal exchange of information and ideas between participants (to quote the Google definition). Most content at Field Day will be in the form of lightning talks and discussions conducted by attendees.
-  - q: I'm not in the Bay Area, but this sounds cool! Can I come?
-    a: This event does have a focus on the Bay Area, but you're welcome to make your own way to San Francisco and join us! Also keep an eye on your inbox for emails from GitHub Education. There's more to come!
+  - q: I'm not in the Rocky Mountain Area, but this sounds cool! Can I come?
+    a: This event does have a focus on the Rocky Mountain Region, but you're welcome to make your own way to Boulder and join us! Also keep an eye on your inbox for emails from GitHub Education. There are more Field Days come!
   - q: So I registered to attend, what happens now?
     a: We'll get back to you soon! You'll receive an email, where you can claim your ticket.
   - q: How much does Field Day cost?
