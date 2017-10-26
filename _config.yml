@@ -19,7 +19,7 @@ exclude: [
   'package.json',
   'README.md'
 ]
-baseurl: '/boulder2017'
+baseurl: '/colorado2018'
 
 faqs:
   - q: Who can attend Field Day?
